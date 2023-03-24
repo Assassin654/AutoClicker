@@ -11,8 +11,8 @@ Auto Clicker and Macro tool for windows
   * Repeat until stopped or a given number of times
   * Macro recording, saving, and playback with options to capture mouse and or keyboard inputs
   * Ability to write custom macro scripts 
-  * Create custom hotkeys to controll the program
-  * Warns and allows user to update if new versions are avaliable
+  * Create custom hotkeys to control the program
+  * Warns and allows user to update if new versions are available
 
 CPS: 25000+ according to clickspeedtest.com (with superclicker enabled in the program)
 
