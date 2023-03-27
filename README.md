@@ -10,7 +10,8 @@ Auto Clicker and Macro tool for windows
   * Select cursor positions
   * Repeat until stopped or a given number of times
   * Macro recording, saving, and playback with options to capture mouse and or keyboard inputs
-  * Ability to write custom macro scripts 
+  * Ability to write custom macro scripts
+  * Restrict program to working only in windows 
   * Create custom hotkeys to control the program
   * Warns and allows user to update if new versions are available
 
