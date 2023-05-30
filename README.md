@@ -21,6 +21,7 @@ CPS: 25000+ according to clickspeedtest.com (with superclicker enabled in the pr
 Get the latest installer from [releases](https://github.com/Assassin654/AutoClicker/releases/latest)
 
 Run the installer to extract the files and a shortcut will automatically be created for you.
+
 Note: If you do not want to run the installer you can manually extract the program as you would a zip
 
 ***
