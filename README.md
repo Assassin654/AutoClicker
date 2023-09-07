@@ -28,5 +28,4 @@ Note: If you do not want to run the installer you can manually extract the progr
 ![image](https://github.com/Assassin654/AutoClicker/assets/80000135/2846a497-4dcf-4bdc-a59c-5545e6a42ce5)
 ![image](https://user-images.githubusercontent.com/80000135/227387127-d3acff3a-96e1-4c30-8c32-c6463939693a.png)
 ![image](https://github.com/Assassin654/AutoClicker/assets/80000135/b98b2f86-6ce1-42df-b207-9a7aa842a453)
-Simplified Version
 ![image](https://github.com/Assassin654/AutoClicker/assets/80000135/b645289a-a825-463c-b3cf-eea4045631fa)
