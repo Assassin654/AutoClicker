@@ -1,6 +1,8 @@
 # AutoClicker
 Auto Clicker and Macro tool for windows
 
+To submit feedback/features request submit a issue with the enhancement label!
+
 # Main Features
   * User friendly GUI
   * Kill switch
