@@ -22,6 +22,7 @@ CPS: 25000+ according to clickspeedtest.com (with superclicker enabled in the pr
 # Download
 <p align="left">
 	<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Assassin654/AutoClicker/total?label=GitHub%20Downloads" />
+<img alt="GitHub Latest Release" src="https://img.shields.io/github/v/tag/Assassin654/AutoClicker?label=Latest%20Release">
  
 Get the latest installer from [releases](https://github.com/Assassin654/AutoClicker/releases/latest)
 
