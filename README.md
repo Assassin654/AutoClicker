@@ -20,6 +20,9 @@ To submit feedback/features request, submit a issue with the enhancement label!
 CPS: 25000+ according to clickspeedtest.com (with superclicker enabled in the program)
 
 # Download
+<p align="left">
+	<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Assassin654/AutoClicker/total?label=GitHub%20Downloads" />
+ 
 Get the latest installer from [releases](https://github.com/Assassin654/AutoClicker/releases/latest)
 
 Run the installer to extract the files and a shortcut will automatically be created for you.
