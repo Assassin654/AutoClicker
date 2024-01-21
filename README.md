@@ -13,7 +13,8 @@ To submit feedback/features request, submit a issue with the enhancement label!
   * Repeat until stopped or a given number of times
   * Macro recording, saving, and playback with options to capture mouse and or keyboard inputs
   * Ability to write custom macro scripts
-  * Restrict program to working only in certain windows 
+  * Restrict program to working only in certain windows
+  * Send mouse clicks to applications while still being able to use your pc via ghost click
   * Create custom hotkeys to control the program
   * Warns and allows user to update if new versions are available
 
