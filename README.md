@@ -1,7 +1,9 @@
-# AutoClicker
+# About AutoClicker
 Auto Clicker and Macro tool for Windows
 
-You can use the application as an auto clicker, a macro, or both. The program has many features built into it to be very versatile and fit everyone's needs. If you need an auto clicker that will click infinitely fast, this can click as fast as your CPU allows. If you need a clicker with some randomization, hold the mouse button down, and click on a certain spot for x times, it can do that too and more. If you want to be able to still use your PC while something is clicking in the background this can do it. Make a script to move your mouse around, click on certain spots, and press keys, you bet. I've tried to make the best application I can think of and if you think something could be better, let me know. To submit feedback/feature requests, submit an issue!
+You can use this application as an auto clicker, a macro, or both. The program has many features built into it to be very versatile and fit everyone's needs. If you need an auto clicker that will click infinitely fast, this can click as fast as your CPU allows. If you need a clicker with some randomization, hold the mouse button down, and click on a certain spot for x times, it can do that too and more. If you want to be able to still use your PC while something is clicking in the background this can do it. Make a script to move your mouse around, click on certain spots, and press keys, you bet. I've tried to make the best application I can think of and if you think something could be better, let me know.
+
+To submit feedback/feature requests, submit an issue!
 
 # Main Features
   * User-friendly GUI
